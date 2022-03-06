@@ -9,3 +9,4 @@ edition = "2021"
 arrow = "9.1.0"
 parquet = "9.1.0"
 clap = { version = "3.1.5", features = ["derive"] }
+anyhow = "1.0.55"
